@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name:               "Frauen Lese KReise"
 
 # URL
 baseurl:            ""
@@ -16,7 +16,7 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
+    href:           "http://blog.zehrah.net/frauenlesekreise/"
   - name:           "Download"
     href:           "//github.com/gfjaru/Kiko/releases"
 
