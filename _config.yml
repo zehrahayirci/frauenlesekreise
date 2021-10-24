@@ -35,6 +35,12 @@ nav:
 sass:
   style:            :compressed
 
+#collection
+collections:
+  archives:
+    output: true
+    permalink: /archives/:path/
+
 # Scopes
 defaults:
   -
