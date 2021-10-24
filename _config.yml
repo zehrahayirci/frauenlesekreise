@@ -6,7 +6,7 @@
 name:               "Frauen Lese KReise"
 
 # URL
-baseurl:            ""
+baseurl:            "http://blog.zehrah.net/frauenlesekreise/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
