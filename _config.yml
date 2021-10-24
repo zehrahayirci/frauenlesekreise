@@ -3,12 +3,22 @@
 # # # # # # # #
 
 # Basic
-name:               "Frauen Lese KReise"
+name:               "Frauen Lesekreise"
+description:        "Ein Buchclub für Frauen, die Deutsch als Fremdsprache lernen"
+
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+url:                "http://blog.zehrah.net/frauenlesekreise/
+author:             "Zehra Hayirci"
+twitter:
+  username:         "zehayirci"
+#facebook:
+#  app_id:           1234
+#    publisher:      1234
 
 # URL
-baseurl:            "http://blog.zehrah.net/frauenlesekreise/"
+baseurl:            ""
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+permalink:          /:year/:month/:day/:title/
 
 # Markdown
 markdown:           kramdown
@@ -16,9 +26,11 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "http://blog.zehrah.net/frauenlesekreise/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    remote:         false
+    localpath:      "about"
+  - name:           "Archive"
+    remote:         false
+    localpath:      "archive"
 
 # Sass
 sass:
@@ -38,3 +50,6 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+
+gems:
+  - jekyll-seo-tag
