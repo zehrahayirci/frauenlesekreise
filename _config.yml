@@ -51,9 +51,9 @@ defaults:
       layout:       "post"
   -
     scope:
-      path:         "/archive"
+      path:         "{{ site.baseurl }}/archive"
       type:         "archive"
-    values:
+    values:         "archive"
       layout:       "archive"
 
 gems:
