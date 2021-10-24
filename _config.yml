@@ -27,9 +27,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name: "About"
-    href: "/about"
+    href: "/frauenlesekreise/about"
   - name: "Archive"
-    href: "/archive"
+    href: "/frauenlesekreise/archive"
 
 # Sass
 sass:
