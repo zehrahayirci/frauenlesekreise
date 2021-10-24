@@ -1,5 +1,6 @@
 ---
 title: Archive
+type: archive
 permalink: /archive/
 ---
 
