@@ -16,7 +16,7 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "http://blog.zehrah.net/frauenlesekreise/"
+    href:           "http://blog.zehrah.net/frauenlesekreise/about"
   - name:           "Download"
     href:           "//github.com/gfjaru/Kiko/releases"
 
