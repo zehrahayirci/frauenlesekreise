@@ -4,13 +4,13 @@
 
 # Basic
 name:               "Frauen Lese kreise"
-description:        "Ein Buchclub fur Frauen, die Deutsch als Fremdsprache lernen"
+description:        "Ein Buchclub fur Frauen die Deutsch als Fremdsprache lernen"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "http://blog.zehrah.net/frauenlesekreise/
 author:             "Zehra Hayirci"
-twitter:
-  username:         "zehayirci"
+#twitter:
+#  username:         "zehayirci"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
