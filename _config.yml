@@ -28,6 +28,7 @@ nav:
   - name:           "About"
     remote:         false
     localpath:      "about"
+    
   - name:           "Archive"
     remote:         false
     localpath:      "archive"
