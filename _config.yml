@@ -49,6 +49,12 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "archive"
+    values:
+      layout:       "archive"
 
 gems:
   - jekyll-seo-tag
