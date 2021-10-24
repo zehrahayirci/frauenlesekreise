@@ -23,14 +23,13 @@ permalink:          /:year/:month/:day/:title/
 # Markdown
 markdown:           kramdown
 
+
 # Navigation
 nav:
-  - name:           "About"
-    remote:         false
-    localpath:      "/about"
-  - name:           "Archive"
-    remote:         false
-    localpath:      "archive"
+  - name: "About"
+    href: "/about"
+  - name: "Archive"
+    href: "/archive"
 
 # Sass
 sass:
