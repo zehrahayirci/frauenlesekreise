@@ -7,7 +7,7 @@ name: "Frauen Lese kreise"
 description: "Ein Buchclub fur Frauen die Deutsch als Fremdsprache lernen"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "http://blog.zehrah.net/frauenlesekreise/"
+url:                "http://blog.zehrah.net/"
 author:             "Zehra Hayirci"
 #twitter:
 #  username:         "zehayirci"
@@ -16,7 +16,7 @@ author:             "Zehra Hayirci"
 #    publisher:      1234
 
 # URL
-baseurl:            "http://blog.zehrah.net/frauenlesekreise/"
+baseurl:            "/frauenlesekreise/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
