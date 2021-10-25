@@ -55,12 +55,6 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
-  -
-    scope:
-      path:         ""
-      type:         "archive"
-    values:         "archive"
-      layout:       "archive"
 
 gems:
   - jekyll-seo-tag
