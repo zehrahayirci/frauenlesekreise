@@ -57,7 +57,7 @@ defaults:
       layout:       "post"
   -
     scope:
-      path:         "{{ site.baseurl }}/archive"
+      path:         ""
       type:         "archive"
     values:         "archive"
       layout:       "archive"
