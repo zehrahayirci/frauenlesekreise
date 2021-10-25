@@ -1,7 +1,7 @@
 ---
 title:        "Brief einer Unbekannten"
 description:  "Ein Liebesbrief erreicht den Romancier und Lebemann R. an seinem einundvierzigsten Geburtstag – die leidenschaftliche Lebensbeichte einer Frau, deren Lebensmittelpunkt er war."
-image:        "http://placehold.it/400x200"
+image:        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172512508l/182185.jpg"
 author:       "Stefan Zweig"
 ---
 
