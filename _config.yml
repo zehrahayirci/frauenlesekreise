@@ -26,20 +26,17 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name: "About"
-    href: "/frauenlesekreise/about"
-  - name: "Archive"
-    href: "/frauenlesekreise/archive"
+  - name:           "About"
+    remote:         false
+    localpath:      "about"
+    
+  - name:           "Archive"
+    remote:         false
+    localpath:      "archive"
 
 # Sass
 sass:
   style:            :compressed
-
-#collection
-collections:
-  archives:
-    output: true
-    permalink: /archives/:path/
 
 # Scopes
 defaults:
