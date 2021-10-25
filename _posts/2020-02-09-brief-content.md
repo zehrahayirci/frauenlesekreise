@@ -5,6 +5,7 @@ image:        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/b
 author:       "Stefan Zweig"
 ---
 ![brief](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172512508l/182185.jpg "Brief Einer Unbekannten")
+
 Dies war das erste Buch, das wir besprochen haben.
 Obwohl wir alle Frauen waren, fiel es uns schwer, uns in die Hauptfigur einzufühlen. 
 
